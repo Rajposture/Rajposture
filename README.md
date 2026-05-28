@@ -4,28 +4,40 @@
 <!--                    ANIMATED HERO BANNER                      -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raj_Posture&fontSize=80&fontColor=FFD700&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descSize=18&descAlignY=58&descColor=87CEEB&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Raj%20Posture&fontSize=70&fontColor=FFD700&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descSize=24&descAlignY=58&descColor=FFF8DC&animation=fadeIn" width="100%"/>
 
-<!-- Animated Typing SVG -->
+<!-- ============================================================ -->
+<!--                    TYPING ANIMATION                          -->
+<!-- ============================================================ -->
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FFD700&background=FFFFFF00&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=%F0%9F%9A%80+Building+the+Future+with+MERN;%F0%9F%92%BB+Full+Stack+Web+Developer;%F0%9F%94%A5+React+%7C+Node.js+%7C+MongoDB;%E2%9A%A1+Turning+Ideas+into+Reality;%F0%9F%8E%AF+Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FFD700&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=700&lines=%F0%9F%9A%80+Building+the+Future+with+MERN;%F0%9F%92%BB+Full+Stack+Web+Developer;%F0%9F%94%A5+React+%7C+Node.js+%7C+MongoDB;%E2%9A%A1+Turning+Ideas+into+Reality;%F0%9F%8E%AF+Passionate+Problem+Solver" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<!-- Animated Badges Row -->
-<img src="https://img.shields.io/badge/Open%20to%20Work-00C851?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MERN%20Stack-FFD700?style=for-the-badge&logo=mongodb&logoColor=0D1117&labelColor=0D1117"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=FFD700&style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
-<!-- Dynamic Stats Badges -->
-<img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=1E90FF&labelColor=0D1117&logo=github"/>
+<!-- ============================================================ -->
+<!--                       BADGES                                 -->
+<!-- ============================================================ -->
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-00C851?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github"/>
+
+<img src="https://img.shields.io/badge/MERN%20Stack-FFD700?style=for-the-badge&logo=mongodb&logoColor=0D1117&labelColor=0D1117"/>
+&nbsp;
+
+<img src="https://komarev.com/ghpvc/?username=rajposture&label=Profile%20Views&color=FFD700&style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+<!-- ============================================================ -->
+<!--                    GITHUB STATS BADGES                       -->
+<!-- ============================================================ -->
+
+<img src="https://img.shields.io/github/followers/rajposture?label=Followers&style=for-the-badge&color=1E90FF&labelColor=0D1117&logo=github"/>
+&nbsp;
+
+<img src="https://img.shields.io/github/stars/rajposture?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github"/>
 
 </div>
 
