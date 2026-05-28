@@ -4,7 +4,7 @@
 <!--                    ANIMATED HERO BANNER                      -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raj Posture&fontSize=80&fontColor=FFD700&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descSize=18&descAlignY=58&descColor=87CEEB&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raj_Posture&fontSize=80&fontColor=FFD700&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descSize=18&descAlignY=58&descColor=87CEEB&animation=fadeIn" width="100%"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
