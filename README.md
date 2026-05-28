@@ -4,7 +4,7 @@
 <!--                    ANIMATED HERO BANNER                      -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YOUR%20NAME&fontSize=80&fontColor=FFD700&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descSize=18&descAlignY=58&descColor=87CEEB&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raj%Posture&fontSize=80&fontColor=FFD700&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descSize=18&descAlignY=58&descColor=87CEEB&animation=fadeIn" width="100%"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -37,14 +37,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> &nbsp; Hey, I'm **[Your Name]** — Welcome to my GitHub! 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> &nbsp; Hey, I'm **[Raj Posture]** — Welcome to my GitHub! 
 
 <img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
-name: Your Name
+name: Raj Posture
 role: MERN Stack Developer
-location: Your City, India 🇮🇳
+location: Kandivali, India 🇮🇳
 current_focus:
   - Building scalable Full Stack Web Apps
   - Mastering Backend Architecture
@@ -107,10 +107,10 @@ mantra: "Code. Learn. Build. Repeat. 🚀"
 
 | 🚀 Project | 🔥 Description | ⚡ Tech Stack | 🔗 Links |
 |:---:|:---:|:---:|:---:|
-| 🛍️ **Project One** | Modern E-Commerce Platform with auth, cart & payments | `MERN` `JWT` `Stripe` | [![Demo](https://img.shields.io/badge/Live-FFD700?style=flat-square&logo=vercel&logoColor=black)](https://github.com/yourusername) [![Code](https://img.shields.io/badge/Code-1E90FF?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername) |
-| 🔐 **Project Two** | Cyber Security Awareness Platform | `React` `Node.js` `MongoDB` | [![Demo](https://img.shields.io/badge/Live-FFD700?style=flat-square&logo=vercel&logoColor=black)](https://github.com/yourusername) [![Code](https://img.shields.io/badge/Code-1E90FF?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername) |
-| 🎉 **Project Three** | Sponsored Event Management System | `Full Stack` `Express` `MySQL` | [![Demo](https://img.shields.io/badge/Live-FFD700?style=flat-square&logo=vercel&logoColor=black)](https://github.com/yourusername) [![Code](https://img.shields.io/badge/Code-1E90FF?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername) |
-| 🏦 **Project Four** | OOP-Based Banking System | `Java` `OOP` `DSA` | [![Demo](https://img.shields.io/badge/Live-FFD700?style=flat-square&logo=vercel&logoColor=black)](https://github.com/yourusername) [![Code](https://img.shields.io/badge/Code-1E90FF?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername) |
+| 🛍️ **InterVue** | A Sponser by Alwphware PVT ltd , An Ai Integrated Interview conducting platform| `MERN` `JWT` `Stripe` | [![Demo](https://img.shields.io/badge/Live-FFD700?style=flat-square&logo=vercel&logoColor=black)](https://github.com/yourusername) [![Code](https://img.shields.io/badge/Code-1E90FF?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername) |
+| 🔐 **PrimeCart** | AI Agent Based Recommendation E-commerce web app| `Node.js` `MongoDB` `Stripe` `JWT` | [![Demo](https://img.shields.io/badge/Live-FFD700?style=flat-square&logo=vercel&logoColor=black)](https://github.com/yourusername) [![Code](https://img.shields.io/badge/Code-1E90FF?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername) |
+| 🎉 **ClassMark** | An Ai Chatbot powered Attendance conducting platform  | `Full Stack` `Express` `MySQL` | [![Demo](https://img.shields.io/badge/Live-FFD700?style=flat-square&logo=vercel&logoColor=black)](https://github.com/yourusername) [![Code](https://img.shields.io/badge/Code-1E90FF?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername) |
+| 🏦 **Lifespan** | Blogging webpage | `Java` `OOP` `DSA` | [![Demo](https://img.shields.io/badge/Live-FFD700?style=flat-square&logo=vercel&logoColor=black)](https://github.com/yourusername) [![Code](https://img.shields.io/badge/Code-1E90FF?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername) |
 
 </div>
 
@@ -236,15 +236,15 @@ mantra: "Code. Learn. Build. Repeat. 🚀"
 
 <div align="center">
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Rajposture">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=0D1117"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/yourusername">
+<a href="www.linkedin.com/in/raj-posture-3a0621372">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=0D1117"/>
 </a>
 &nbsp;
-<a href="mailto:youremail@gmail.com">
+<a href="rajposture16@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=0D1117"/>
 </a>
 &nbsp;
