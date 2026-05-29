@@ -153,17 +153,7 @@ mantra: "Code. Learn. Build. Repeat. 🚀"
 
 ---
 
-<!-- ============================================================ -->
-<!--                   CONTRIBUTION GRAPH                         -->
-<!-- ============================================================ -->
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=FFD700&line=1E90FF&point=FFD700&area=true&area_color=1E90FF&hide_border=true&custom_title=Aniket's%20Contribution%20Graph" width="95%"/>
-
-</div>
 
 ---
 
