@@ -124,39 +124,7 @@ India-first, building for global scale
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC0D9,100:FF6FA5&height=3&section=header" width="100%"/>
 
-<!-- ============================================================ -->
-<!--                      TECH STACK                              -->
-<!-- ============================================================ -->
 
-<div align="center">
-
-## 🐱 Tech Arsenal 🎀
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,java,c,html,css,mysql,mongodb&theme=light&perline=8"/>
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=light&perline=8"/>
-
-<br/><br/>
-
-**Backend & AI**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,py&theme=light&perline=8"/>
-
-<br/><br/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,cloudinary,vercel,netlify&theme=light&perline=8"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6FA5,100:FFC0D9&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                    FEATURED PROJECTS                         -->
