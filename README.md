@@ -1,290 +1,354 @@
 <div align="center">
 
 <!-- ============================================================ -->
-<!--                    ANIMATED HERO BANNER                      -->
+<!--                    HERO BANNER — BLUE WAVE                   -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Raj%20Posture&fontSize=70&fontColor=FFD700&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descSize=24&descAlignY=58&descColor=FFF8DC&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A2540,50:1E6FD9,100:5FA8FF&height=250&section=header&text=RAJ%20POSTURE&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%40%20Blue%20Horizon%20%7C%20MERN%20Stack%20Developer&descSize=20&descAlignY=58&descColor=D8E9FF&animation=twinkling" width="100%"/>
+
+<br/>
 
 <!-- ============================================================ -->
 <!--                    TYPING ANIMATION                          -->
 <!-- ============================================================ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FFD700&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=700&lines=%F0%9F%9A%80+Building+the+Future+with+MERN;%F0%9F%92%BB+Full+Stack+Web+Developer;%F0%9F%94%A5+React+%7C+Node.js+%7C+MongoDB;%E2%9A%A1+Turning+Ideas+into+Reality;%F0%9F%8E%AF+Passionate+Problem+Solver" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=900&color=1E6FD9&center=true&vCenter=true&repeat=true&width=760&lines=Founder+%40+Blue+Horizon;Building+Products+that+Scale;MERN+Stack+%7C+System+Design;Turning+Vision+into+Ventures;Code+%E2%86%92+Company+%E2%86%92+Impact" alt="Typing SVG"/>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                    QUICK BADGES                              -->
+<!-- ============================================================ -->
+
+<img src="https://img.shields.io/badge/FOUNDER-Blue%20Horizon-0A2540?style=for-the-badge&labelColor=1E6FD9&color=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-0A2540?style=for-the-badge&logo=checkmarx&logoColor=5FA8FF&labelColor=FFFFFF"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=rajposture&label=Profile%20Views&color=1E6FD9&style=for-the-badge&labelColor=FFFFFF"/>
 
 <br/><br/>
 
-<!-- ============================================================ -->
-<!--                       BADGES                                 -->
-<!-- ============================================================ -->
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-00C851?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/rajposture?label=Followers&style=for-the-badge&color=5FA8FF&labelColor=0A2540&logo=github"/>
 &nbsp;
-
-<img src="https://img.shields.io/badge/MERN%20Stack-FFD700?style=for-the-badge&logo=mongodb&logoColor=0D1117&labelColor=0D1117"/>
-&nbsp;
-
-<img src="https://komarev.com/ghpvc/?username=rajposture&label=Profile%20Views&color=FFD700&style=for-the-badge&labelColor=0D1117"/>
-
-<br/><br/>
-
-<!-- ============================================================ -->
-<!--                    GITHUB STATS BADGES                       -->
-<!-- ============================================================ -->
-
-<img src="https://img.shields.io/github/followers/rajposture?label=Followers&style=for-the-badge&color=1E90FF&labelColor=0D1117&logo=github"/>
-&nbsp;
-
-<img src="https://img.shields.io/github/stars/rajposture?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github"/>
+<img src="https://img.shields.io/github/stars/rajposture?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=for-the-badge&color=1E6FD9&labelColor=0A2540&logo=github"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:5FA8FF&height=4&section=header" width="100%"/>
+
+<br/>
 
 <!-- ============================================================ -->
-<!--                       ABOUT ME                               -->
+<!--                    BLUE HORIZON — FOUNDER STRIP               -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<table align="center">
+<tr>
+<td width="60%" valign="top">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> &nbsp; Hey, I'm **[Raj Posture]** — Welcome to my GitHub! 
+### 🧭 About Me
 
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+Hey, I'm **Raj Posture** — Founder of **Blue Horizon**, and a MERN Stack Developer based in Kandivali, India.
+
+I build full-stack products end to end — from architecture to deployment — and I'm currently focused on scaling **Blue Horizon** while sharpening my backend engineering, system design, and AI-integration skills.
 
 ```yaml
-name: Raj Posture
-role: MERN Stack Developer
+role: Founder, Blue Horizon
+craft: MERN Stack Developer
 location: Kandivali, India 🇮🇳
-current_focus:
-  - Building scalable Full Stack Web Apps
-  - Mastering Backend Architecture
-  - Exploring AI + Web Integration
-  - Competitive Programming on CodeChef
-goals_2026:
-  - ✅ Crack an Internship
-  - 🔄 Master Full Stack Development  
-  - 📦 Build 10+ Real World Projects
-  - 🌐 Contribute to Open Source
-fun_fact: "I turn ☕ into scalable code 💻"
-mantra: "Code. Learn. Build. Repeat. 🚀"
+currently:
+  - Scaling Blue Horizon's product line
+  - Architecting backend systems that scale
+  - Integrating AI into real web products
+  - Sharpening DSA on CodeChef
+mantra: "Build the vision. Ship the code. Repeat."
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="top" align="center">
 
----
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8FF,100:0A2540&height=3&section=header" width="100%"/>
+
+<!-- ============================================================ -->
+<!--                    BLUE HORIZON SECTION                       -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## 🏢 Blue Horizon — The Company I'm Building
+
+<img src="https://img.shields.io/badge/Founded%20by-Raj%20Posture-0A2540?style=flat-square&labelColor=1E6FD9&color=FFFFFF"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI%20Products-0A2540?style=flat-square&labelColor=5FA8FF&color=FFFFFF"/>
+
+</div>
+
+<table align="center" width="90%">
+<tr>
+<td align="center" width="25%">
+
+**🎯 Vision**
+Ship products that solve real problems at scale
+
+</td>
+<td align="center" width="25%">
+
+**⚙️ Stack**
+MERN, AI integrations, cloud-native systems
+
+</td>
+<td align="center" width="25%">
+
+**🚀 Stage**
+Building & shipping MVPs, onboarding first users
+
+</td>
+<td align="center" width="25%">
+
+**🌍 Reach**
+India-first, building for global scale
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:5FA8FF&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                      TECH STACK                              -->
 <!-- ============================================================ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"/> &nbsp; Tech Stack
-
 <div align="center">
 
-### 💻 Languages
+## 🛠️ Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=js,java,c,cpp,html,css,mysql,mongodb&theme=dark&perline=8"/>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,java,c,cpp,html,css,mysql,mongodb&theme=light&perline=8"/>
 
----
+<br/><br/>
 
-### 🌐 Frontend
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,bootstrap&theme=light&perline=8"/>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,bootstrap&theme=dark&perline=8"/>
+<br/><br/>
 
----
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=light&perline=8"/>
 
-### ⚙️ Backend
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=8"/>
-
----
-
-### 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,vercel&theme=dark&perline=8"/>
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,vercel&theme=light&perline=8"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8FF,100:0A2540&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                    FEATURED PROJECTS                         -->
 <!-- ============================================================ -->
 
-## 🏆 Featured Projects
-
 <div align="center">
 
-| 🚀 Project | 🔥 Description | ⚡ Tech Stack | 🔗 Links |
-|:---:|:---:|:---:|:---:|
-| 🛍️ **InterVue** | A Sponser by Alwphware PVT ltd , An Ai Integrated Interview conducting platform| `MERN` `JWT` `Stripe` | [![Demo](https://img.shields.io/badge/Live-FFD700?style=flat-square&logo=vercel&logoColor=black)](https://github.com/yourusername) [![Code](https://img.shields.io/badge/Code-1E90FF?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername) |
-| 🔐 **PrimeCart** | AI Agent Based Recommendation E-commerce web app| `Node.js` `MongoDB` `Stripe` `JWT` | [![Demo](https://img.shields.io/badge/Live-FFD700?style=flat-square&logo=vercel&logoColor=black)](https://github.com/yourusername) [![Code](https://img.shields.io/badge/Code-1E90FF?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername) |
-| 🎉 **ClassMark** | An Ai Chatbot powered Attendance conducting platform  | `Full Stack` `Express` `MySQL` | [![Demo](https://img.shields.io/badge/Live-FFD700?style=flat-square&logo=vercel&logoColor=black)](https://github.com/yourusername) [![Code](https://img.shields.io/badge/Code-1E90FF?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername) |
-| 🏦 **Lifespan** | Blogging webpage | `Java` `OOP` `DSA` | [![Demo](https://img.shields.io/badge/Live-FFD700?style=flat-square&logo=vercel&logoColor=black)](https://github.com/yourusername) [![Code](https://img.shields.io/badge/Code-1E90FF?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername) |
+## 🚀 Featured Projects
 
 </div>
 
----
+<table align="center" width="95%">
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+<th>Links</th>
+</tr>
+<tr>
+<td><b>🎥 InterVue</b></td>
+<td>AI-integrated interview platform — sponsored by Alwphware Pvt Ltd</td>
+<td><code>MERN</code> <code>JWT</code> <code>Stripe</code></td>
+<td>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Live-1E6FD9?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Code-0A2540?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td><b>🛒 PrimeCart</b></td>
+<td>AI-agent based recommendation e-commerce platform</td>
+<td><code>Node.js</code> <code>MongoDB</code> <code>Stripe</code> <code>JWT</code></td>
+<td>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Live-1E6FD9?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Code-0A2540?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td><b>📋 ClassMark</b></td>
+<td>AI chatbot-powered attendance management platform</td>
+<td><code>Full Stack</code> <code>Express</code> <code>MySQL</code></td>
+<td>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Live-1E6FD9?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Code-0A2540?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td><b>📝 Lifespan</b></td>
+<td>Feature-rich blogging web platform</td>
+<td><code>Java</code> <code>OOP</code> <code>DSA</code></td>
+<td>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Live-1E6FD9?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Code-0A2540?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:5FA8FF&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                    GITHUB ANALYTICS                          -->
 <!-- ============================================================ -->
 
+<div align="center">
+
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&title_color=FFD700&icon_color=1E90FF&text_color=1E90FF&bg_color=00000000&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&title_color=0A2540&icon_color=1E6FD9&text_color=1E6FD9&bg_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=donut&theme=transparent&hide_border=true&title_color=FFD700&text_color=1E90FF&bg_color=00000000&langs_count=6"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=donut&theme=default&hide_border=true&title_color=0A2540&text_color=1E6FD9&bg_color=FFFFFF&langs_count=6"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=yourusername&theme=default&hide_border=true&ring=1E6FD9&fire=5FA8FF&currStreakLabel=0A2540&sideLabels=0A2540&currStreakNum=1E6FD9&sideNums=1E6FD9&dates=6B7280&background=FFFFFF" width="60%"/>
 
 </div>
 
-<br/>
-
-<!-- GitHub Streak -->
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=yourusername&theme=transparent&hide_border=true&ring=FFD700&fire=FF6B35&currStreakLabel=1E90FF&sideLabels=1E90FF&currStreakNum=FFD700&sideNums=FFD700&dates=888888&background=00000000" width="60%"/>
-
-</div>
-
----
-
-
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8FF,100:0A2540&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                     GITHUB TROPHIES                          -->
 <!-- ============================================================ -->
 
-## 🥇 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=4&title_color=FFD700&rank=SSS,SS,S,AAA,AA,A,B,C" width="95%"/>
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=4&title_color=0A2540&rank=SSS,SS,S,AAA,AA,A,B,C" width="95%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:5FA8FF&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
-<!--                    CURRENT FOCUS                             -->
+<!--                    CURRENT FOCUS + GOALS                     -->
 <!-- ============================================================ -->
 
-## 🎯 Currently Working On
+<table align="center" width="95%">
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🎯 Currently Working On
 
 ```
-🚀  Building Full Stack MERN Projects
-🧠  Improving DSA & Problem Solving  
-🤖  Exploring AI + Web Development
-⚙️  Mastering Backend Architecture
-💼  Preparing for Internship Opportunities
+🏢  Scaling Blue Horizon
+🚀  Shipping full-stack MERN products
+🧠  Sharpening DSA & problem-solving
+🤖  Building AI-integrated web apps
+⚙️  Mastering backend architecture
+💼  Growing the founding team
 ```
 
-</div>
+</td>
+<td width="50%" valign="top">
 
----
-
-<!-- ============================================================ -->
-<!--                     2026 GOALS                               -->
-<!-- ============================================================ -->
-
-## 🎯 2026 Goals
-
-<div align="center">
+### 📌 2026 Roadmap
 
 | Status | Goal |
 |:---:|:---|
-| 🔄 | 🚀 Crack a Software Engineering Internship |
-| 🔄 | 🧠 Master Full Stack Development (MERN) |
-| 🔄 | 💻 Build 10+ Real World Projects |
-| 🔄 | 🌐 Contribute to Open Source |
-| 🔄 | ⚡ Improve Competitive Programming (CodeChef) |
-| 🔄 | 🤖 Build AI-Integrated Web Applications |
+| 🔄 | Grow Blue Horizon's first product to real users |
+| 🔄 | Master full-stack development (MERN) |
+| 🔄 | Ship 10+ real-world projects |
+| 🔄 | Contribute to open source |
+| 🔄 | Sharpen competitive programming (CodeChef) |
+| 🔄 | Build deeper AI-integrated web applications |
 
-</div>
+</td>
+</tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8FF,100:0A2540&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
-<!--                    RANDOM DEV QUOTE                          -->
+<!--                    DEV QUOTE OF THE DAY                      -->
 <!-- ============================================================ -->
-
-## 💡 Dev Quote of the Day
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson&border_color=FFD700&quoteColor=1E90FF&authorColor=FFD700&bgColor=0D1117" width="70%"/>
+## 💭 Founder's Note
 
-<br/><br/>
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=transparent&qColor=%23FFD700&aColor=%231E90FF" width="50%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson&border_color=1E6FD9&quoteColor=0A2540&authorColor=1E6FD9&bgColor=FFFFFF" width="70%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:5FA8FF&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                    CONNECT WITH ME                           -->
 <!-- ============================================================ -->
 
-## 🌐 Connect With Me
-
 <div align="center">
 
+## 🌐 Let's Connect
+
 <a href="https://github.com/Rajposture">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=0A2540&labelColor=FFFFFF"/>
 </a>
 &nbsp;
-<a href="www.linkedin.com/in/raj-posture-3a0621372">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=0D1117"/>
+<a href="https://www.linkedin.com/in/raj-posture-3a0621372">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E6FD9"/>
 </a>
 &nbsp;
-<a href="rajposture16@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=0D1117"/>
+<a href="mailto:rajposture16@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A2540"/>
 </a>
 &nbsp;
 <a href="https://www.codechef.com/users/yourusername">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=FFD700&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1E6FD9"/>
 </a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8FF,100:0A2540&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                    PROFILE SUMMARY                           -->
 <!-- ============================================================ -->
 
-## 👀 Profile Summary
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=transparent" width="95%"/>
+## 👀 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=default" width="95%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=transparent" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=transparent" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=transparent&utcOffset=5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=default" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=default" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=default&utcOffset=5.5" width="32%"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### 💛 &nbsp; *"Code. Learn. Build. Repeat."* &nbsp; 🚀
+### 🌊 &nbsp; *"Build the vision. Ship the code. Repeat."* &nbsp; — Raj Posture, Founder @ Blue Horizon
 
-<br/>
-
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=FFD700&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A2540,50:1E6FD9,100:5FA8FF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=22&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
