@@ -1,33 +1,62 @@
 <div align="center">
 
+<!-- ============================================================ -->
+<!--                 HELLO KITTY TOP BANNER                       -->
+<!-- ============================================================ -->
+
 <img src="./assets/hello-kitty-banner.png" width="100%" alt="Hello Kitty Banner"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<!-- ============================================================ -->
+<!--              HERO BANNER — KITTY-CUTE PINK & WHITE           -->
+<!-- ============================================================ -->
 
-<!-- Your Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFFFFF,50:FFC0D9,100:FF6FA5&height=260&section=header&text=RAJ%20POSTURE&fontSize=62&fontColor=B3184C&fontAlignY=34&desc=Founder%20%26%20CEO%20@%20Blue%20Horizon&animation=twinkling" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=soft&color=0:FFFFFF,50:FFC0D9,100:FF6FA5&height=260&section=header&text=RAJ%20POSTURE&fontSize=62&fontColor=B3184C&fontAlignY=34&desc=%F0%9F%8E%80%20Founder%20%26%20CEO%20%40%20Blue%20Horizon%20%7C%20AI%20%2B%20MERN%20Developer%20%F0%9F%8E%80&descSize=17&descAlignY=56&descColor=B3184C&animation=twinkling"
+width="100%"/>
+
+<br/><br/>
 
 <!-- ============================================================ -->
 <!--                    TYPING ANIMATION                          -->
 <!-- ============================================================ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=FF6FA5&center=true&vCenter=true&repeat=true&width=760&lines=%F0%9F%8E%80+Founder+%26+CEO+%40+Blue+Horizon;%F0%9F%90%B1+Building+Intelligent+Software;%F0%9F%8E%80+AI+%2B+MERN+Stack+Developer;%F0%9F%90%BE+RAG+%7C+Chatbots+%7C+Full-Stack;%F0%9F%8E%80+Code+%E2%86%92+Company+%E2%86%92+Impact" alt="Typing SVG"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=FF6FA5&center=true&vCenter=true&repeat=true&width=850&lines=%F0%9F%8E%80+Founder+%26+CEO+of+Blue+Horizon;%F0%9F%92%BB+AI+%7C+MERN+Stack+Developer;%F0%9F%A4%96+Building+Intelligent+Software;%F0%9F%9A%80+Turning+Ideas+Into+Products;%F0%9F%8C%B8+Always+Learning+Always+Building"
+alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
 <!-- ============================================================ -->
 <!--                    QUICK BADGES                              -->
 <!-- ============================================================ -->
 
-<img src="https://img.shields.io/badge/🎀%20FOUNDER%20%26%20CEO-Blue%20Horizon-FF6FA5?style=for-the-badge&labelColor=FFFFFF&color=FF6FA5"/>
+<img src="https://img.shields.io/badge/Founder%20%26%20CEO-Blue%20Horizon-FF6FA5?style=for-the-badge&labelColor=FFFFFF&color=FF6FA5"/>
+
 &nbsp;
-<img src="https://img.shields.io/badge/🐱%20AI%20Developer-FFFFFF?style=for-the-badge&labelColor=FFC0D9&color=B3184C"/>
+
+<img src="https://img.shields.io/badge/AI%20Developer-MERN%20Stack-B3184C?style=for-the-badge&labelColor=FFC0D9&color=B3184C"/>
+
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Rajposture&label=Profile%20Views&color=FF6FA5&style=for-the-badge&labelColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-FF8DB8?style=for-the-badge&labelColor=FFFFFF"/>
+
+&nbsp;
+
+<img src="https://komarev.com/ghpvc/?username=Rajposture&label=Profile%20Views&style=for-the-badge&color=FF6FA5&labelColor=FFFFFF"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/github/followers/Rajposture?style=for-the-badge&label=Followers&color=FF6FA5&labelColor=FFFFFF"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/github/stars/Rajposture?style=for-the-badge&label=Stars&color=B3184C&labelColor=FFFFFF"/>
 
 <br/><br/>
+
+</div>
 
 <img src="https://img.shields.io/github/followers/Rajposture?label=Followers&style=for-the-badge&color=FF6FA5&labelColor=FFFFFF&logo=github"/>
 &nbsp;
@@ -125,7 +154,39 @@ India-first, building for global scale
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC0D9,100:FF6FA5&height=3&section=header" width="100%"/>
 
+<!-- ============================================================ -->
+<!--                      TECH STACK                              -->
+<!-- ============================================================ -->
 
+<div align="center">
+
+## 🐱 Tech Arsenal 🎀
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,c,html,css,mysql,mongodb&theme=light&perline=8"/>
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=light&perline=8"/>
+
+<br/><br/>
+
+**Backend & AI**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,py&theme=light&perline=8"/>
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,cloudinary,vercel,netlify&theme=light&perline=8"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6FA5,100:FFC0D9&height=3&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                    FEATURED PROJECTS                         -->
