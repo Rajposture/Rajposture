@@ -1,29 +1,33 @@
 <div align="center">
 
-<!-- ==================== HELLO KITTY BANNER ==================== -->
-
 <img
-src="PASTE_YOUR_BANNER_IMAGE_URL_HERE"
-alt="Hello Kitty Banner"
-width="100%" />
+src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:FFFFFF,50:FFC0D9,100:FF6FA5&amp;height=260&amp;section=header&amp;text=RAJ%20POSTURE&amp;fontSize=62&amp;fontColor=B3184C&amp;fontAlignY=34&amp;desc=Founder%20%26%20CEO%20%40%20Blue%20Horizon%20%7C%20AI%20%2B%20MERN%20Developer&amp;descSize=17&amp;descAlignY=56&amp;descColor=B3184C&amp;animation=twinkling"
+width="100%"
+alt="Hero Banner"/>
 
 <br><br>
 
-<!-- ==================== HERO ==================== -->
-
 <img
-src="https://capsule-render.vercel.app/api?type=soft&color=0:FFFFFF,50:FFC0D9,100:FF6FA5&height=260&section=header&text=RAJ%20POSTURE&fontSize=62&fontColor=B3184C&fontAlignY=34&desc=Founder%20%26%20CEO%20%40%20Blue%20Horizon%20%7C%20AI%20%2B%20MERN%20Developer&descSize=17&descAlignY=56&descColor=B3184C&animation=twinkling"
-width="100%" />
-
-<br><br>
-
-<!-- ==================== TYPING ==================== -->
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=FF6FA5&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+of+Blue+Horizon;AI+%2B+MERN+Stack+Developer;Building+Intelligent+Software;Open+Source+Contributor;Turning+Ideas+Into+Reality"
+src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=900&amp;color=FF6FA5&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=900&amp;lines=Founder+%26+CEO+of+Blue+Horizon;AI+%2B+MERN+Stack+Developer;Building+Modern+Software;Creating+AI+Powered+Products;Code+%E2%80%A2+Innovate+%E2%80%A2+Scale"
 alt="Typing SVG"/>
 
 <br><br>
+
+<img src="https://img.shields.io/badge/Founder-Blue%20Horizon-FF6FA5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-MERN%20Developer-B3184C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-FF8DB8?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Rajposture&amp;style=for-the-badge&amp;color=FF6FA5"/>
+
+<img src="https://img.shields.io/github/followers/Rajposture?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Rajposture?style=for-the-badge"/>
+
+</div>
 
 <!-- ==================== BADGES ==================== -->
 
