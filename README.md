@@ -102,15 +102,7 @@ Retrieval-Augmented Generation (RAG) application for fact verification and intel
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajposture&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajposture&layout=compact&hide_border=true"/>
-
-</p>
 
 ---
 
