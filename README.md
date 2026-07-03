@@ -67,7 +67,11 @@ mantra: "Build the vision. Ship the code. Repeat."
 </td>
 <td width="40%" valign="top" align="center">
 
-
+<img
+  src="https://raw.githubusercontent.com/Rajposture/Rajposture/main/assets/blue-horizon-logo.png"
+  alt="Blue Horizon Logo"
+  width="220"
+/>
 
 <br/>
 <sub>Blue Horizon</sub>
