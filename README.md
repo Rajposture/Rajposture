@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ============================================================ -->
-<!--                    HERO BANNER — BLUE WAVE                   -->
+<!--              ANIMATED WAVING HEADER — BLUE OCEAN             -->
 <!-- ============================================================ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A2540,50:1E6FD9,100:5FA8FF&height=250&section=header&text=RAJ%20POSTURE&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%40%20Blue%20Horizon%20%7C%20MERN%20Stack%20Developer&descSize=20&descAlignY=58&descColor=D8E9FF&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1E6FD9,100:5FA8FF&height=260&section=header&text=RAJ%20POSTURE&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Founder%20%40%20Blue%20Horizon%20%7C%20MERN%20Stack%20Developer&descSize=19&descAlignY=57&descColor=D8E9FF&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:5FA8FF&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:5FA8FF&height=4&section=header&animation=twinkling" width="100%"/>
 
 <br/>
 
@@ -67,13 +67,16 @@ mantra: "Build the vision. Ship the code. Repeat."
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img src="/mnt/user-data/uploads/1783092834870_image.png" width="200"/>
+
+<br/>
+<sub>Blue Horizon</sub>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8FF,100:0A2540&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5FA8FF,100:0A2540&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                    BLUE HORIZON SECTION                       -->
@@ -117,7 +120,7 @@ India-first, building for global scale
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:5FA8FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:5FA8FF&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                      TECH STACK                              -->
@@ -129,29 +132,35 @@ India-first, building for global scale
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,java,c,cpp,html,css,mysql,mongodb&theme=light&perline=8"/>
+<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python,html,css&theme=light&perline=8"/>
 
 <br/><br/>
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,bootstrap&theme=light&perline=8"/>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,materialui&theme=light&perline=8"/>
 
 <br/><br/>
 
-**Backend**
+**Backend & Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=light&perline=8"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma&theme=light&perline=8"/>
+
+<br/><br/>
+
+**AI / Cloud / DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,netlify,py&theme=light&perline=8"/>
 
 <br/><br/>
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,netlify,vercel&theme=light&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=light&perline=8"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8FF,100:0A2540&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5FA8FF,100:0A2540&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                    FEATURED PROJECTS                         -->
@@ -208,7 +217,7 @@ India-first, building for global scale
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:5FA8FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:5FA8FF&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                    GITHUB ANALYTICS                          -->
@@ -228,7 +237,7 @@ India-first, building for global scale
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8FF,100:0A2540&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5FA8FF,100:0A2540&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                     GITHUB TROPHIES                          -->
@@ -242,7 +251,7 @@ India-first, building for global scale
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:5FA8FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:5FA8FF&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                    CURRENT FOCUS + GOALS                     -->
@@ -281,7 +290,7 @@ India-first, building for global scale
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8FF,100:0A2540&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5FA8FF,100:0A2540&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                    DEV QUOTE OF THE DAY                      -->
@@ -295,7 +304,7 @@ India-first, building for global scale
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2540,100:5FA8FF&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:5FA8FF&height=3&section=header&animation=twinkling" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                    CONNECT WITH ME                           -->
@@ -323,32 +332,12 @@ India-first, building for global scale
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5FA8FF,100:0A2540&height=3&section=header" width="100%"/>
-
-<!-- ============================================================ -->
-<!--                    PROFILE SUMMARY                           -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-## 👀 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=default" width="95%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=default" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=default" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=default&utcOffset=5.5" width="32%"/>
-
-</div>
-
 <br/>
 
 <div align="center">
 
 ### 🌊 &nbsp; *"Build the vision. Ship the code. Repeat."* &nbsp; — Raj Posture, Founder @ Blue Horizon
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A2540,50:1E6FD9,100:5FA8FF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=22&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1E6FD9,100:5FA8FF&height=130&section=footer&text=Thanks%20for%20Visiting!&fontSize=22&fontColor=FFFFFF&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>
