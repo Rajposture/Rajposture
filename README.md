@@ -1,12 +1,13 @@
 <div align="center">
 
-<!-- ============================================================ -->
-<!--              HERO BANNER — KITTY-CUTE PINK & WHITE           -->
-<!-- ============================================================ -->
+<img src="./assets/hello-kitty-banner.png" width="100%" alt="Hello Kitty Banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFFFFF,50:FFC0D9,100:FF6FA5&height=260&section=header&text=RAJ%20POSTURE&fontSize=62&fontColor=B3184C&fontAlignY=34&desc=🎀%20Founder%20%26%20CEO%20%40%20Blue%20Horizon%20%7C%20AI%20%2B%20MERN%20Developer%20🎀&descSize=17&descAlignY=56&descColor=B3184C&animation=twinkling" width="100%"/>
+</div>
 
 <br/>
+
+<!-- Your Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFFFFF,50:FFC0D9,100:FF6FA5&height=260&section=header&text=RAJ%20POSTURE&fontSize=62&fontColor=B3184C&fontAlignY=34&desc=Founder%20%26%20CEO%20@%20Blue%20Horizon&animation=twinkling" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                    TYPING ANIMATION                          -->
