@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2447,50:2563EB,100:60A5FA&amp;height=260&amp;section=header&amp;text=Raj%20Posture&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Founder%20@%20Blue%20Horizon%20%7C%20AI%20%26%20MERN%20Developer&amp;descAlignY=58&amp;descSize=20" width="100%"/>
+<img src="./assets/wave-header.svg" width="100%"/>
 
 <br/>
 
@@ -16,7 +16,8 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Founder+%40+Blue+Horizon;AI+%26+MERN+Stack+Developer;Building+InterVue+%2F+ClassMark+%2F+TruthLens+AI;Engineering+Tomorrow.&amp;font=Fira+Code&amp;center=true&amp;width=600&amp;height=45&amp;color=2563EB&amp;vCenter=true&amp;size=24&amp;pause=1200"/>
+### Founder @ Blue Horizon &nbsp;|&nbsp; AI &amp; MERN Stack Developer
+Building InterVue &bull; ClassMark &bull; TruthLens AI &nbsp;&mdash;&nbsp; *Engineering Tomorrow.*
 
 </div>
 
@@ -137,8 +138,6 @@ Full-featured MERN e-commerce platform with Stripe payments, JWT auth with refre
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1E3A8A,50:2563EB,100:93C5FD&amp;height=150&amp;section=header&amp;text=Ride%20the%20Horizon&amp;fontSize=28&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=65"/>
-
 An original mini-game I built for this profile — pilot a boat riding the Blue Horizon waves, dodging swell barriers. Not a Snake clone — a signature interactive piece.
 
 > GitHub strips `<script>` tags from every README for security, so a playable game can't run directly on this page. The full playable build lives in my portfolio / repo Pages — linked below.
@@ -179,7 +178,7 @@ An original mini-game I built for this profile — pilot a boat riding the Blue 
 
 ## Blue Horizon
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1E3A8A,50:2563EB,100:60A5FA&amp;height=200&amp;section=header&amp;text=Engineering%20Tomorrow.&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=45"/>
+<img src="./assets/wave-footer.svg" width="100%"/>
 
 *At Blue Horizon, we craft intelligent software, develop advanced AI solutions, and build scalable cloud ecosystems that empower businesses to shape the future with confidence.*
 
